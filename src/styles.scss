@@ -1,0 +1,6 @@
+.hello {
+  --my-font: "font(Body-M)"; /* define a custom variable with a default value */
+  font: "font(--my-font)"; /* assign a dynamic font value from a custom var */
+  color: "color(color-5)"; ;
+  font-size: 32px !important;
+}
