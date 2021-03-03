@@ -1,5 +1,5 @@
 import React from 'react';
-import { withStyles } from 'native-components-infra/dist/es/src/HOC/withStyles/withStyles';
+import { withStyles } from '@wix/native-components-infra/dist/es/src/HOC/withStyles/withStyles';
 import styles from './styles.scss';
 
 function App(props) {
